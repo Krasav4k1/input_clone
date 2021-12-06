@@ -1,0 +1,12 @@
+com\stry4ka\inputClone\common\GlobalVariable.class
+com\stry4ka\inputClone\common\SwitchInputDevice.class
+com\stry4ka\inputClone\model\common\Mouse.class
+com\stry4ka\inputClone\server\SocketMessageSend.class
+com\stry4ka\inputClone\nativecpp\NativeListenerCPP.class
+com\stry4ka\inputClone\utils\DialogUtil.class
+com\stry4ka\inputClone\server\Server.class
+com\stry4ka\inputClone\Launch.class
+com\stry4ka\inputClone\utils\MessageUtil.class
+com\stry4ka\inputClone\model\common\Keyboard.class
+com\stry4ka\inputClone\utils\KeyUtil.class
+com\stry4ka\inputClone\model\common\Message.class

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/input_clone_server/src/main/resources" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
